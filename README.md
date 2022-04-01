@@ -17,7 +17,6 @@ Time spent: 20 hours spent in total
     -  <img src="Comment Vulnerability.gif" alt="Comment Vulnerability">
   - [ ] Steps to recreate: 
     - Post the infected code into the comment
-  - [ ]   
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. XSS Vulnerability 2
