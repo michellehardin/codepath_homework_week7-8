@@ -24,6 +24,7 @@ Time spent: 20 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
+  - [ ] GIF Walkthrough:
     -  <img src="Vulnerability 2.gif" alt="Image Vulnerability">
   - [ ] Steps to recreate: 
     -  Add new post 
@@ -37,11 +38,16 @@ Time spent: 20 hours spent in total
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.13
   - [ ] GIF Walkthrough: 
+    -  <img src="Vulnerability 3.gif" alt="Title Vulnerability"> 
   - [ ] Steps to recreate: 
+    -  As an admin, go to the Appearances tab and select Widgets
+    -  Click Text Widget
+    -  Add infected code into the Title Box under Meta 
+    -  Refresh to the main page and the alert will pop up
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
