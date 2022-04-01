@@ -14,7 +14,7 @@ Time spent: 20 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
-    -  
+    -  <img src="Comment Vulnerability.gif" alt="Comment Vulnerability">
   - [ ] Steps to recreate: 
     - Post the infected code into the comment
   - [ ]   
