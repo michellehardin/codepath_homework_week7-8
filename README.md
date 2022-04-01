@@ -40,7 +40,7 @@ Time spent: 20 hours spent in total
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
-    - Fixed in version: 4.2.13
+    - Fixed in version: 4.2.4
   - [ ] GIF Walkthrough: 
     -  <img src="Vulnerability 3.gif" alt="Title Vulnerability"> 
   - [ ] Steps to recreate: 
