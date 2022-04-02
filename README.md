@@ -16,7 +16,9 @@ Time spent: 20 hours spent in total
   - [ ] GIF Walkthrough: 
     -  <img src="Comment Vulnerability.gif" alt="Comment Vulnerability">
   - [ ] Steps to recreate: 
+    - Go to a post to leave a comment
     - Post the infected code into the comment
+    - Click on the Submit button
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. XSS Vulnerability 2
@@ -36,7 +38,7 @@ Time spent: 20 hours spent in total
     -  When you click on the image, the exploit is revealed
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-### 3. (Required) Vulnerability Name or ID
+### 3. Title Widget Vulnerability
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -60,11 +62,12 @@ List any additional assets, such as scripts or files
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
-GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+GIFs created with ScreenToGIF
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+- I had issues with the Kali linux screen freezing
+- I also had an issue with Vagrant where 'vagrant up' would not work but that was resolved by uninstalling and reinstalling vagrant 
 
 ## License
 
