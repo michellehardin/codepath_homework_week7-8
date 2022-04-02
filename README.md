@@ -20,7 +20,8 @@ Time spent: 20 hours spent in total
     - Post the infected code into the comment
     - Click on the Submit button
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://wpscan.com/vulnerability/7945) 
+    - [Link 2](https://core.trac.wordpress.org/browser/tags/4.6.1/src/wp-comments-post.php)
 ### 2. XSS Vulnerability 2
   - [ ] Summary: 
     - Vulnerability types: XSS
@@ -37,7 +38,7 @@ Time spent: 20 hours spent in total
     -  Publish and view the post
     -  When you click on the image, the exploit is revealed
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://www.cvedetails.com/vulnerability-list.php?vendor_id=2337&product_id=4096&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=0&cvssscoremax=0&year=0&cweid=0&order=1&trc=331&sha=f7e9f236634d1e8f8f1588d8b60868d41a0af790)
 ### 3. Title Widget Vulnerability
   - [ ] Summary: 
     - Vulnerability types: XSS
@@ -51,7 +52,7 @@ Time spent: 20 hours spent in total
     -  Add infected code into the Title Box under Meta 
     -  Refresh to the main page and the alert will pop up
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://www.cvedetails.com/vulnerability-list.php?vendor_id=2337&product_id=4096&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=0&cvssscoremax=0&year=0&cweid=0&order=1&trc=331&sha=f7e9f236634d1e8f8f1588d8b60868d41a0af790)
 
 ## Assets
 
